@@ -36,7 +36,7 @@ msgstr " - Low-wage labor (lower than 0.7x and above 1.3x the normal salary)"
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:412
 msgid " - Reason: {0}"
-msgstr " - Reason: {0}"
+msgstr " - סיבה: {0}"
 
 #: src/components/_common/GameRules.tsx:133
 msgid " - Repeated donations of resources or money to a military unit or country."
@@ -87,14 +87,14 @@ msgstr "{0} days cooldown"
 #. placeholder {0}: user.data.leveling.freeReset
 #: src/pages/user/[userId]/skills.tsx:174
 msgid "{0} Free"
-msgstr "{0} Free"
+msgstr "{0} חינם"
 
 #. placeholder {0}: lawConfig?.coolDownInHours
 #. placeholder {0}: motionConfig.coolDownInHours
 #: src/components/_political/law/Law.tsx:111
 #: src/components/_political/partyMotion/PartyMotion.tsx:109
 msgid "{0} hours"
-msgstr "{0} hours"
+msgstr "{0} שעות"
 
 #. placeholder {0}: data.outbidByMuName
 #. placeholder {1}: data.newPerK
@@ -1408,7 +1408,7 @@ msgstr "All Ingame"
 
 #: src/components/_social/ArticleList.tsx:120
 msgid "All languages"
-msgstr "All languages"
+msgstr "כל השפות"
 
 #. placeholder {0}: ethicsBonuses.imperialism[2].lawCostMultiplier
 #: src/components/_political/party/party.frontConfig.tsx:263
@@ -1466,7 +1466,7 @@ msgstr "Almost feels like cheating"
 
 #: src/components/_layout/LoadingScreenContent.tsx:55
 msgid "Almost ready..."
-msgstr "Almost ready..."
+msgstr "כמעט מוכן..."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:115
 msgid "Alpha Tester"
@@ -1484,7 +1484,7 @@ msgstr "Ammo:"
 #: src/components/_political/law/LawFormModal.tsx:250
 #: src/components/_political/law/LawFormModal.tsx:251
 msgid "Amount"
-msgstr "Amount"
+msgstr "כמות"
 
 #: src/components/_economy/company/CompanyTags.tsx:110
 msgid "Amount of <0>Production Points</0> that can be stored inside the company before production stops."
@@ -1884,7 +1884,7 @@ msgstr "Boost your production!"
 #: src/components/_user/UserEquipments.tsx:200
 #: src/utils/translations.tsx:192
 msgid "Boots"
-msgstr "Boots"
+msgstr "נעליים"
 
 #: src/components/_military/battle/LootSummaryCard.tsx:103
 msgid "Bounty"
@@ -1901,7 +1901,7 @@ msgstr "Bounty will be available in"
 
 #: src/utils/translations.tsx:31
 msgid "Bread"
-msgstr "Bread"
+msgstr "לחם"
 
 #: src/components/_political/law/law.frontConfig.tsx:315
 #: src/components/_political/law/lawNames.tsx:27
@@ -2061,7 +2061,7 @@ msgstr "Candidacy is open for <0/>"
 
 #: src/components/_political/election/CandidateFormModal.tsx:86
 msgid "Candidate"
-msgstr "Candidate"
+msgstr "מועמד"
 
 #: src/components/_political/party/party.frontConfig.tsx:262
 msgid "Cannot have a vice president or ministers."
@@ -2192,7 +2192,7 @@ msgstr "Citizen since <0><1/></0>"
 
 #: src/components/_political/country/CountryHeader.tsx:124
 msgid "Citizens"
-msgstr "Citizens"
+msgstr "אזרחים"
 
 #: src/pages/country/[countryId]/index.tsx:185
 msgid "Citizens get a bonus when fighting for allies, or against the sworn enemy"
@@ -2448,7 +2448,7 @@ msgstr "Congress has a minimum of <0>{0} seats</0>."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:57
 msgid "Congress Member"
-msgstr "Congress Member"
+msgstr "חבר כנסת"
 
 #: src/pages/country/[countryId]/government.tsx:64
 msgid "Congress members"
@@ -2539,7 +2539,7 @@ msgstr "Copied to clipboard"
 
 #: src/pages/user/[userId]/referrals.tsx:112
 msgid "Copy"
-msgstr "Copy"
+msgstr "העתק"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:125
 msgid "Copy this token now. You won't be able to see it again! Use it in the <0>X-API-Key</0> header."
@@ -2559,7 +2559,7 @@ msgstr "Cost"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:223
 msgid "Council Member"
-msgstr "Council Member"
+msgstr "חבר כנסת"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:134
 msgid "Council member to remove"
@@ -2708,7 +2708,7 @@ msgstr "d. Any form of discrimination, racism, xenophobia, antisemitism, homopho
 
 #: src/components/_user/mission/MissionsList.tsx:190
 msgid "Daily"
-msgstr "Daily"
+msgstr "יומי"
 
 #: src/components/_political/law/LawTypeSelect.tsx:170
 msgid "Daily maintenance"
@@ -3398,7 +3398,7 @@ msgstr "Fanatic Republican"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:21
 msgid "Farmer"
-msgstr "Farmer"
+msgstr "חקלאי"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:146
 msgid "Farmer Boots"
@@ -3432,7 +3432,7 @@ msgstr "Favorites"
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:231
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:108
 msgid "Fee"
-msgstr "Fee"
+msgstr "עמלה"
 
 #: src/components/_layout/LayoutRightIcons.tsx:335
 #: src/components/_layout/MoreButtonNav.tsx:86
@@ -3465,7 +3465,7 @@ msgstr "Fight!"
 
 #: src/utils/translations.tsx:27
 msgid "Fighter Jet"
-msgstr "Fighter Jet"
+msgstr "מטוס קרב"
 
 #: src/components/_economy/transaction/TransactionList.tsx:104
 msgid "Filter by transaction type"
@@ -3544,7 +3544,7 @@ msgstr "Fired from government"
 
 #: src/utils/translations.tsx:36
 msgid "Fish"
-msgstr "Fish"
+msgstr "דג"
 
 #: src/components/_layout/LayoutMapOptions.tsx:274
 msgid "Flags"
@@ -3680,7 +3680,7 @@ msgstr "Globe (experimental)"
 #: src/components/_user/UserEquipments.tsx:217
 #: src/utils/translations.tsx:201
 msgid "Gloves"
-msgstr "Gloves"
+msgstr "כפפות"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:95
 msgid "Go play lottery right now"
@@ -3696,7 +3696,7 @@ msgstr "Go to skills"
 
 #: src/utils/translations.tsx:34
 msgid "Gold"
-msgstr "Gold"
+msgstr "זהב"
 
 #: src/components/_political/country/CountryHeader.tsx:92
 msgid "Government"
@@ -4079,7 +4079,7 @@ msgstr "j. Spam and repeated messages"
 #: src/pages/companies.tsx:32
 #: src/pages/user/[userId]/companies.tsx:56
 msgid "Job"
-msgstr "Job"
+msgstr "עבודה"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:202
 #: src/components/_economy/workOffer/WageInfoAlert.tsx:42
@@ -4156,7 +4156,7 @@ msgstr "Kick Member"
 
 #: src/utils/translations.tsx:22
 msgid "Knife"
-msgstr "Knife"
+msgstr "סכין"
 
 #: src/components/_user/UserEquipments.tsx:139
 msgid "Knives do not accept ammo"
@@ -4613,7 +4613,7 @@ msgstr "Military & Battles"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:43
 msgid "Military base"
-msgstr "Military base"
+msgstr "בסיס צבאי"
 
 #: src/components/_political/law/LawTypeSelect.tsx:73
 msgid "Military laws"
@@ -4662,7 +4662,7 @@ msgstr "Min. active citizens"
 
 #: src/components/_political/government/Government.tsx:82
 msgid "Minister of Defense"
-msgstr "Minister of Defense"
+msgstr "שר הביטחון"
 
 #: src/components/_political/government/Government.tsx:91
 msgid "Minister of Economy"
@@ -4676,7 +4676,7 @@ msgstr "Minister of Foreign Affairs"
 #: src/components/_layout/MoreButtonNav.tsx:103
 #: src/components/_user/mission/MissionsList.tsx:169
 msgid "Missions"
-msgstr "Missions"
+msgstr "משימות"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:123
 msgid "Mobile phone number"
@@ -4880,7 +4880,7 @@ msgstr "Never stop gambling"
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
-msgstr "New"
+msgstr "חדש"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:122
 msgid "New API Token Created"
@@ -4967,7 +4967,7 @@ msgstr "New supporters"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1921
 msgid "New worker"
-msgstr "New worker"
+msgstr "עובד חדש"
 
 #: src/components/_user/referral/ReferralList.tsx:72
 msgid "Newest"
@@ -5004,7 +5004,7 @@ msgstr "Nice one"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:192
 msgid "Nice work!"
-msgstr "Nice work!"
+msgstr "עבודה יפה!"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:193
 msgid "No active battles"
@@ -5313,7 +5313,7 @@ msgstr "Options"
 
 #: src/components/_military/order/BattleOrderTags.tsx:24
 msgid "Order"
-msgstr "Order"
+msgstr "פקודה"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:81
 msgid "Orders"
@@ -5330,7 +5330,7 @@ msgstr "Orders cancelled"
 #: src/components/_military/battle/ActiveBattlesList.tsx:117
 #: src/components/_user/notification/notificationPrefs.categories.ts:160
 msgid "Other"
-msgstr "Other"
+msgstr "אחר"
 
 #: src/components/_political/law/Law.tsx:64
 #: src/components/_political/partyMotion/PartyMotion.tsx:81
@@ -5386,7 +5386,7 @@ msgstr "Packs"
 #: src/components/_user/UserEquipments.tsx:183
 #: src/utils/translations.tsx:210
 msgid "Pants"
-msgstr "Pants"
+msgstr "מכנסיים"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:222
 msgid "Participate in <0>{count}</0> battles"
@@ -5848,7 +5848,7 @@ msgstr "Rankings"
 
 #: src/components/_layout/LayoutRightIcons.tsx:313
 msgid "Ranks"
-msgstr "Ranks"
+msgstr "דרגות"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:168
 msgid "Rate"
@@ -6253,7 +6253,7 @@ msgstr "Reward"
 
 #: src/utils/translations.tsx:24
 msgid "Rifle"
-msgstr "Rifle"
+msgstr "רובה"
 
 #: src/components/_political/government/Government.tsx:154
 msgid "Rights"
@@ -6355,7 +6355,7 @@ msgstr "Save your progress!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:202
 msgid "Say hello!"
-msgstr "Say hello!"
+msgstr "תגיד שלום!"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:14
 msgid "Scammed"
@@ -6584,7 +6584,7 @@ msgstr "Set your username"
 #: src/components/_user/user/MyAvatar.tsx:54
 #: src/components/_user/user/UserHeader.tsx:217
 msgid "Settings"
-msgstr "Settings"
+msgstr "הגדרות"
 
 #: src/components/_layout/LayoutRightIcons.tsx:267
 #: src/components/_layout/MoreButtonNav.tsx:73
@@ -6691,7 +6691,7 @@ msgstr "Skip Tutorial"
 
 #: src/utils/translations.tsx:25
 msgid "Sniper"
-msgstr "Sniper"
+msgstr "צלף"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:155
 msgid "Social & Messages"
@@ -6941,7 +6941,7 @@ msgstr "Take deposits into account"
 
 #: src/utils/translations.tsx:26
 msgid "Tank"
-msgstr "Tank"
+msgstr "טנק"
 
 #: src/components/_political/law/LawFormModal.tsx:192
 msgid "Target country"
@@ -7755,7 +7755,7 @@ msgstr "Voter"
 
 #: src/components/_military/war/WarComparison.tsx:45
 msgid "VS"
-msgstr "VS"
+msgstr "נגד"
 
 #: src/components/_economy/transaction/TransactionList.tsx:73
 #: src/components/_economy/work/WorkChart.tsx:245
@@ -7806,7 +7806,7 @@ msgstr "War declared"
 
 #: src/pages/war/[warId]/index.tsx:49
 msgid "War Ended"
-msgstr "War Ended"
+msgstr "המלחמה הסתיימה"
 
 #: src/components/_user/modals/PremiumModal.tsx:39
 msgid "War Era is 100% free to play and has no <0>ads</0> or <1>pay-to-win</1>, If you enjoy the game, you can support its development by subscribing to the Supporter Plan <3"
@@ -7814,7 +7814,7 @@ msgstr "War Era is 100% free to play and has no <0>ads</0> or <1>pay-to-win</1>,
 
 #: src/components/_user/userReports/ReportFormModal.tsx:83
 msgid "Warning"
-msgstr "Warning"
+msgstr "אזהרה"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:76
 msgid "Warrant Officer"
@@ -7822,7 +7822,7 @@ msgstr "Warrant Officer"
 
 #: src/components/_political/country/CountryHeader.tsx:98
 msgid "Wars"
-msgstr "Wars"
+msgstr "מלחמות"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:38
 #: src/pages/user/[userId]/index.tsx:129
@@ -7832,20 +7832,20 @@ msgstr "Wealth"
 #: src/components/_economy/inventory/case/RarityChances.tsx:49
 #: src/components/_user/UserEquipments.tsx:120
 msgid "Weapon"
-msgstr "Weapon"
+msgstr "נשק"
 
 #: src/components/_user/user/SkillValue.tsx:58
 msgid "Weapon:"
-msgstr "Weapon:"
+msgstr "נשק:"
 
 #: src/components/_user/user/WealthPanel.tsx:63
 msgid "Weapons"
-msgstr "Weapons"
+msgstr "נשקים"
 
 #: src/components/_military/mu/MuMemberList.tsx:192
 #: src/components/_user/mission/MissionsList.tsx:203
 msgid "Weekly"
-msgstr "Weekly"
+msgstr "שבועי"
 
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:172
 msgid "Weekly balance"
@@ -7932,7 +7932,7 @@ msgstr "Worker fired!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1922
 msgid "Worker left"
-msgstr "Worker left"
+msgstr "העובד עזב"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:74
 msgid "Worker updated!"
@@ -7941,7 +7941,7 @@ msgstr "Worker updated!"
 #: src/pages/company/[companyId]/index.tsx:87
 #: src/pages/company/[companyId]/workers.tsx:37
 msgid "Workers"
-msgstr "Workers"
+msgstr "עובדים"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:58
 msgid "Working for others is a great way to earn money when starting out."
@@ -8150,11 +8150,11 @@ msgstr "You invited a friend or spammed forum posts. After they reach level {0},
 
 #: src/components/_user/worker/WageReductionAlert.tsx:44
 msgid "You left the company."
-msgstr "You left the company."
+msgstr "עזבת את החברה."
 
 #: src/components/_economy/company/CompanyDropdown.tsx:56
 msgid "You left your job!"
-msgstr "You left your job!"
+msgstr "עזבת את העבודה שלך!"
 
 #. placeholder {0}: gameConfig.region.resistanceContributionMinLevel
 #. placeholder {0}: gameConfig.unrest.contributionMinLevel
@@ -8267,7 +8267,7 @@ msgstr "You were nominated as vice president of your country"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:21
 msgid "You were so close"
-msgstr "You were so close"
+msgstr "היית קרוב מאוד"
 
 #. placeholder {0}: gameConfig?.referral.lifeTimeBadgeMoneySharePercent
 #: src/components/_user/referral/ReferralList.tsx:116
@@ -8288,7 +8288,7 @@ msgstr "You won a MU tournament"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:86
 msgid "You worked 100 times"
-msgstr "You worked 100 times"
+msgstr "עבדת 100 פעמים"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:220
 msgid "You're all set!"
@@ -8378,7 +8378,7 @@ msgstr "Your country started a revolt in <0/> against <1/>"
 
 #: src/components/_economy/workOffer/WorkOfferList.tsx:106
 msgid "Your current job"
-msgstr "Your current job"
+msgstr "העבודה הנוכחית שלך"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
@@ -8459,7 +8459,7 @@ msgstr "Your premium subscription has expired!"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:211
 msgid "Your rank"
-msgstr "Your rank"
+msgstr "הדרגה שלך"
 
 #: src/pages/user/[userId]/referrals.tsx:94
 msgid "Your referral link"
